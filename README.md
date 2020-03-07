@@ -1,2 +1,3 @@
-# simple-devops
-simple-devops
+# maven-project
+
+Simple Maven Project
